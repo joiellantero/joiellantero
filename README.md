@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joie. I'm a full-stack web developer.
+I'm Joie. I'm a junior computer engineering student and full-stack web developer.
 
 <hr>
 
