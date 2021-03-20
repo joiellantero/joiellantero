@@ -4,8 +4,6 @@ I'm Joie. I’m a computer engineering student at the University of the Philippi
 
 My dream is to create software that serves the community. Through software, I am able to help create better experiences for people and empower others to a also reach their own dreams. I like creating websites that provides better online presence and services for individuals, organizations, and companies.
 
-<br />
-
 ### 🔗 Let's connect!
 
 [<img align="left" alt="joiellantero.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -29,6 +27,8 @@ My dream is to create software that serves the community. Through software, I am
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
 
 ### 😺 GitHub Stats
 
