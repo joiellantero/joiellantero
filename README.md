@@ -4,11 +4,15 @@ I'm Joie. I’m a computer engineering student at the University of the Philippi
 
 My dream is to create software that serves the community. Through software, I am able to help create better experiences for people and empower others to a also reach their own dreams. I like creating websites that provides better online presence and services for individuals, organizations, and companies.
 
+<br />
+
 ### 🔗 Let's connect!
 
 [<img align="left" alt="joiellantero.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joiellantero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joiellantero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### 🛠 Languages and Tool Chain
 
