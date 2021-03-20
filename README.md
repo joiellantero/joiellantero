@@ -1,15 +1,16 @@
-### Hi, I'm Joie! 👋
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🎒 I’m a 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 at the University of the Philippines Diliman. 
+I'm Joie. I’m a computer engineering student at the University of the Philippines Diliman. I've been a layout artist for seven years now and I'm also a self-taught full-stack web developer and UI/UX Designer.  
 
-💻 I’m interested and passionate about 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and 𝗨𝗜/𝗨𝗫.
+My dream is to create software that serves the community. Through software, I am able to help create better experiences for people and empower others to a also reach their own dreams. I like creating websites that provides better online presence and services for individuals, organizations, and companies.
 
-📥 If you would like to share an opportunity with me, feel free to message me on 
+🌎 [Website](https://joiellantero.codes/)
 
-   - [𝙇𝙞𝙣𝙠𝙚𝙙𝙞𝙣](https://www.linkedin.com/in/joiellantero/); or email me at 
-   - [𝙟𝙖𝙩𝙡𝙡𝙖𝙣𝙩𝙚𝙧𝙤@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢](mailto:jatllantero@gmail.com).
+🔗 Let's connect!
+   - [Linkedin](https://www.linkedin.com/in/joiellantero/); or email me at 
+   - [jatllantero@gmail.com](mailto:jatllantero@gmail.com).
 
-<hr>
+### GitHub Stats
 
 <a href="https://github.com/jstrieb/github-stats">
 
