@@ -16,6 +16,8 @@ My dream is to create software that serves the community. Through software, I am
 
 <img align="left" alt="Visual Studio 
 " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Jet Brains 
+"width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2020.pytennessee.org%2Fstatic%2Fimg%2Fsponsors%2Fjetbrains.png&f=1&nofb=1" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
