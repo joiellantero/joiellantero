@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Joie. I’m a computer engineering student at the University of the Philippines Diliman. I've been a layout artist for seven years now and I'm also a self-taught full-stack web developer and UI/UX Designer.  
+I'm Joie and I’m a computer engineering student at the University of the Philippines Diliman. I've been a layout artist for seven years now and I'm also a self-taught full-stack web developer and UI/UX Designer.  
 
 My dream is to create software that serves the community. Through software, I am able to help create better experiences. I like creating websites which empower individuals, organizations, and companies to reach their goals.
 
