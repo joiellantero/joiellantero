@@ -41,5 +41,5 @@ I'm Joie and I’m a computer engineering student at the University of the Phili
 
 
 [website]: https://joiellantero.codes/
-[instagram]: https://www.instagram.com/joie.l/
+[linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
