@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Joie and I’m a computer engineering student at the University of the Philippines Diliman. I've been a layout artist for seven years now and I'm also a self-taught full-stack web developer and UI/UX Designer.  
+I'm Joie. I currently study computer engineering at the University of the Philippines Diliman. I'm also a layout artist and full-stack web developer.
 
 ### 🔗 Let's connect!
 
@@ -40,6 +40,6 @@ I'm Joie and I’m a computer engineering student at the University of the Phili
 </a>
 
 
-[website]: https://joiellantero.codes/
+[website]: https://jatl-django-personal-website.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
