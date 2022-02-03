@@ -1,6 +1,8 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Joie. I currently study computer engineering at the University of the Philippines Diliman. I'm also a layout artist and full-stack web developer.
+I’m a senior computer engineering student at the University of the Philippines Diliman. I’m interested in web development, UI/UX, and cybersecurity. Technology is my passion and this often leads me to look for opportunities to learn and grow.
+
+If you would like to share an opportunity with me, feel free to message me on [LinkedIn](https://www.linkedin.com/in/joiellantero/) or email me at [jatllantero@gmail.com](mailto:jatllantero@gmail.com)
 
 ### 🔗 Let's connect!
 
