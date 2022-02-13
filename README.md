@@ -1,8 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m a senior computer engineering student at the University of the Philippines Diliman. I’m interested in software and web development, UI/UX, and cybersecurity. Technology is my passion and this often leads me to look for opportunities to learn and grow.
-
-If you would like to share an opportunity with me, feel free to message me on [LinkedIn](https://www.linkedin.com/in/joiellantero/) or email me at [jatllantero@gmail.com](mailto:jatllantero@gmail.com)
+I’m a senior computer engineering student. I’m interested in software and web development, UI/UX, and cybersecurity. I'm passionate about technology and this often leads me to look for opportunities to learn and grow.
 
 ### 🔗 Let's connect!
 
