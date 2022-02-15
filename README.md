@@ -8,7 +8,7 @@ I’m a senior computer engineering student and I'm interested in software and w
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/globe-dark-mode.svg#gh-dark-mode-only" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/linkedin-light-mode.svg#gh-light-mode-only" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/linkedin-dark-mode.svg#gh-dark-mode-only" />][linkedin]
-[<img align="left" alt="Email" width="22px" src=".https://raw.githubusercontent.com/joiellantero/joiellantero/maingmail-light-mode.svg#gh-light-mode-only" />][email]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-light-mode.svg#gh-light-mode-only" />][email]
 [<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-dark-mode.svg#gh-dark-mode-only" />][email]
 
 <br />
