@@ -4,9 +4,9 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 ### 🔗 Let's connect!
 
-[<img align="left" alt="joiellantero.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="joiellantero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joiellantero | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
@@ -20,6 +20,6 @@ I’m a senior computer engineering student and I'm interested in software and w
 </a>
 
 
-[website]: https://jatl-django-personal-website.herokuapp.com/
+[website]: https://joiellantero.tech/
 [linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
