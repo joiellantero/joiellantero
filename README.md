@@ -4,9 +4,13 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 ### 🔗 Let's connect!
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Website" width="22px" src="./globe-light-mode.svg#gh-light-mode-only" />][website]
+[<img align="left" alt="Website" width="22px" src="./globe-dark-mode.svg#gh-dark-mode-only" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="./linkedin-light-mode.svg#gh-light-mode-only" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="./linkedin-dark-mode.svg#gh-dark-mode-only" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Email" width="22px" src="./gmail-light-mode.svg#gh-light-mode-only" />][email]
+[<img align="left" alt="Email" width="22px" src="./gmail-dark-mode.svg#gh-dark-mode-only" />][email]
 
 <br />
 
