@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m a senior computer engineering student. I’m interested in software and web development, UI/UX, and cybersecurity. I'm passionate about technology and this often leads me to look for opportunities to learn and grow.
+I’m a senior computer engineering student and I'm interested in software and web development, UI/UX, and cybersecurity. I'm passionate about technology and this often leads me to look for opportunities to learn and grow.
 
 ### 🔗 Let's connect!
 
