@@ -4,15 +4,9 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 ### 🔗 Let's connect!
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/globe-light-mode.svg#gh-light-mode-only" />][website]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/globe-dark-mode.svg#gh-dark-mode-only" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/linkedin-light-mode.svg#gh-light-mode-only" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/linkedin-dark-mode.svg#gh-dark-mode-only" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-light-mode.svg#gh-light-mode-only" />][email]
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-dark-mode.svg#gh-dark-mode-only" />][email]
-
-![Email]("https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-light-mode.svg#gh-light-mode-only")
-![Email]("https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-dark-mode.svg#gh-dark-mode-only")
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/globe-light-mode.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/linkedin-light-mode.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/joiellantero/joiellantero/main/gmail-light-mode.svg" />][email]
 
 <br />
 
