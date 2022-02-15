@@ -12,7 +12,7 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 ### 😺 GitHub Stats
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/joiellantero/github-stats">
 
 ![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
