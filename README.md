@@ -1,6 +1,7 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-I’m a senior computer engineering student and I'm interested in software and web development, UI/UX, and cybersecurity. I'm passionate about technology and this often leads me to look for opportunities to learn and grow.
+🎓  Computer Engineering Student <br/>
+⭐️  Interests: software and web development, UI/UX, and cybersecurity
 
 **Let's connect**
 
