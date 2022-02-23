@@ -4,10 +4,10 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 **Let's connect**
 
-[![gmail](https://img.shields.io/badge/gmail-232322?style=for-the-badge&logo=gmail&logoColor=white)][email]
-[![Linkedin](https://img.shields.io/badge/Linkedin-232322?style=for-the-badge&logo=linkedin)][linkedin]
-[![blog](https://img.shields.io/badge/blog-232322?style=for-the-badge&logo=netlify&logoColor=white)][website]
-[![dev.to](https://img.shields.io/badge/dev.to-232322?style=for-the-badge&logo=dev.to)][devto]
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
+[![blog](https://img.shields.io/badge/blog-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)][website]
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)][devto]
 
 **GitHub Stats**
 
