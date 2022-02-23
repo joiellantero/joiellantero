@@ -14,7 +14,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joiellantero&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=calm&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joiellantero&layout=compact&theme=calm&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=calm&hide_border=true&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 **Recent Blog Posts**
 
