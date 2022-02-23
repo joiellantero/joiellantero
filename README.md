@@ -11,12 +11,14 @@ I’m a senior computer engineering student and I'm interested in software and w
 
 **GitHub Stats**
 
-<a href="https://github.com/joiellantero/github-stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joiellantero&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![](https://github.com/joiellantero/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/joiellantero/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</a>
+**Recent Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.tech/
 [linkedin]: https://www.linkedin.com/in/joiellantero/
