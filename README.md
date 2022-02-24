@@ -21,6 +21,7 @@
 **Recent Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
 - [Python: Building An Offline Random Name Picker](https://dev.to/joiellantero/python-building-an-offline-random-name-picker-4l0i)
 <!-- BLOG-POST-LIST:END -->
 
