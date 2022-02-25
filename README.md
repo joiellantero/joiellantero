@@ -16,7 +16,7 @@
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=noctis_minimus&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 **Latest Blog Posts**
 
