@@ -1,7 +1,7 @@
-### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
-🎓  Computer Engineering Student <br/>
-⭐️  Interests: software and web development, UI/UX, and cybersecurity
+🎓  Computer Engineer <br/>
+⭐️  Interests: Cybersecurity, software and web development
 
 **Let's connect**
 
