@@ -21,7 +21,7 @@
 - [Python: Building An Offline Random Name Picker](https://dev.to/joiellantero/python-building-an-offline-random-name-picker-4l0i)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://joiellantero.vercel.app/
+[website]: https://joiellantero.vercel.app/blog
 [linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
 [devto]: https://dev.to/joiellantero
