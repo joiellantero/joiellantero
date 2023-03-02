@@ -12,7 +12,7 @@
 
 **GitHub Stats**
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=joiellantero&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=joiellantero&show_icons=true&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
