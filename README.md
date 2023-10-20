@@ -19,7 +19,10 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Importing an SSL Certificate from KeyVault to a Linux VM](https://joiellantero.com/importing-ssl-cert-from-key-vault-to-a-linux-vm)
+- [My SANS GPCS Experience](https://joiellantero.com/my-sans-gpcs-experience)
+- [Deploying a CTFd Site in Azure](https://joiellantero.com/deploying-a-ctfd-site-azure)
+- [ReactJS: State Persistence Using React Recoil](https://joiellantero.com/reactjs-state-persistence-using-react-recoil)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.com
