@@ -19,10 +19,7 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing your CTFd Site](https://dev.to/joiellantero/securing-your-ctfd-site-44p0)
-- [Importing an SSL Certificate from Azure Key Vault to a Linux VM](https://dev.to/joiellantero/importing-an-ssl-certificate-from-azure-key-vault-to-a-linux-vm-2hf)
-- [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
-- [Python: Building An Offline Random Name Picker](https://dev.to/joiellantero/python-building-an-offline-random-name-picker-4l0i)
+
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.com
