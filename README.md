@@ -8,7 +8,6 @@
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
 [![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=vercel&logoColor=white)][website]
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)][devto]
 
 **GitHub Stats**
 
@@ -26,4 +25,3 @@
 [website]: https://joiellantero.com
 [linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
-[devto]: https://dev.to/joiellantero
