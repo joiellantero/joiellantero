@@ -16,10 +16,10 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a macOS Mouse Jiggler](https://joiellantero.com/mouse-jiggler)
 - [List of Free Cybersecurity Tools and Resources](https://joiellantero.com/list-of-free-cybersecurity-tools-and-resources)
 - [Importing an SSL Certificate from KeyVault to a Linux VM](https://joiellantero.com/importing-ssl-cert-from-key-vault-to-a-linux-vm)
 - [My First SANS Certification: SANS GPCS](https://joiellantero.com/my-first-sans-certification)
-- [Deploying a CTFd Site in Azure](https://joiellantero.com/deploying-a-ctfd-site-azure)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.com
