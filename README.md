@@ -16,9 +16,9 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [List of Free Cybersecurity Tools and Resources](https://joiellantero.com/list-of-free-cybersecurity-tools-and-resources)
 - [Easily Remove the macOS Dock Hiding Animation](https://joiellantero.com/macos-dock-hiding-animation)
 - [Creating a macOS Mouse Jiggler without Using Third-Party Libraries](https://joiellantero.com/macos-mouse-jiggler)
-- [List of Free Cybersecurity Tools and Resources](https://joiellantero.com/list-of-free-cybersecurity-tools-and-resources)
 - [Importing an SSL Certificate from KeyVault to a Linux VM](https://joiellantero.com/importing-ssl-cert-from-key-vault-to-a-linux-vm)
 <!-- BLOG-POST-LIST:END -->
 
