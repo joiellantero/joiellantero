@@ -15,7 +15,7 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Read This Before You Click: Outsmarting Phishing Scams](https://joiellantero.com/outsmarting-phishing-scams)
+- [Read This Before You Click, Tap, or Respond: Outsmarting Phishing Scams](https://joiellantero.com/outsmarting-phishing-scams)
 - [List of Free Cybersecurity Tools and Resources](https://joiellantero.com/list-of-free-cybersecurity-tools-and-resources)
 - [Easily Remove the macOS Dock Hiding Animation](https://joiellantero.com/macos-dock-hiding-animation)
 - [Creating a macOS Mouse Jiggler without Using Third-Party Libraries](https://joiellantero.com/macos-mouse-jiggler)
