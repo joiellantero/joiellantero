@@ -1,6 +1,6 @@
 ### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px">
 
-👨‍💻  A security engineer with a passion for programming, cybersecurity, and cloud security. Loves to learn new technology and create solutions to drive innovation.
+👨‍💻  Security engineer who enjoys coding and learning new tech.
 
 **Let's connect**
 
