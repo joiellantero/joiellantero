@@ -1,7 +1,5 @@
 ### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px">
 
-👨‍💻  Security engineer who enjoys coding and learning new tech.
-
 **Let's connect**
 
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
