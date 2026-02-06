@@ -6,10 +6,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
 [![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=vercel&logoColor=white)][website]
 
-**GitHub Stats**
-
-[![Top Langs](https://github-readme-stats-five-lemon-50.vercel.app/api/top-langs/?username=joiellantero&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
