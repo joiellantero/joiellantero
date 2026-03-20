@@ -9,10 +9,10 @@
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Read This Before You Click, Tap, or Respond: Outsmarting Phishing Scams](https://joiellantero.com/outsmarting-phishing-scams)
-- [List of Free Cybersecurity Tools and Resources](https://joiellantero.com/list-of-free-cybersecurity-tools-and-resources)
-- [Easily Remove the macOS Dock Hiding Animation](https://joiellantero.com/macos-dock-hiding-animation)
-- [You Don&#39;t Need Apps: Create a macOS Mouse Jiggler in Minutes with Just Code!](https://joiellantero.com/macos-mouse-jiggler)
+- [Read This Before You Click, Tap, or Respond: Outsmarting Phishing Scams](https://sudojoie.com/outsmarting-phishing-scams)
+- [List of Free Cybersecurity Tools and Resources](https://sudojoie.com/list-of-free-cybersecurity-tools-and-resources)
+- [Easily Remove the macOS Dock Hiding Animation](https://sudojoie.com/macos-dock-hiding-animation)
+- [You Don&#39;t Need Apps: Create a macOS Mouse Jiggler in Minutes with Just Code!](https://sudojoie.com/macos-mouse-jiggler)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joiellantero.com
