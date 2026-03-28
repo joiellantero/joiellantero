@@ -15,6 +15,6 @@
 - [You Don&#39;t Need Apps: Create a macOS Mouse Jiggler in Minutes with Just Code!](https://sudojoie.com/macos-mouse-jiggler)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://joiellantero.com
+[website]: https://sudojoie.com
 [linkedin]: https://www.linkedin.com/in/joiellantero/
 [email]: mailto:jatllantero@gmail.com
