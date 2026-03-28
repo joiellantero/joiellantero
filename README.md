@@ -1,12 +1,12 @@
-### Hi, I'm Joie (ˈjō-ē)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px">
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px">
 
-**Let's connect**
+**Connect**
 
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin]
 [![blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=vercel&logoColor=white)][website]
 
-**Latest Blog Posts**
+**Recent Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Read This Before You Click, Tap, or Respond: Outsmarting Phishing Scams](https://sudojoie.com/outsmarting-phishing-scams)
