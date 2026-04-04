@@ -9,10 +9,10 @@
 **Recent Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Picksy: An Open-Source Spin-the-Wheel Website With No Ads or Trackers](https://sudojoie.com/picksy)
 - [Read This Before You Click, Tap, or Respond: Outsmarting Phishing Scams](https://sudojoie.com/outsmarting-phishing-scams)
 - [List of Free Cybersecurity Tools and Resources](https://sudojoie.com/list-of-free-cybersecurity-tools-and-resources)
 - [Easily Remove the macOS Dock Hiding Animation](https://sudojoie.com/macos-dock-hiding-animation)
-- [You Don&#39;t Need Apps: Create a macOS Mouse Jiggler in Minutes with Just Code!](https://sudojoie.com/macos-mouse-jiggler)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sudojoie.com
